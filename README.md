@@ -1,1 +1,5 @@
-# compose-django
+# Run 
+
+```sh
+docker-compose up -d
+```
